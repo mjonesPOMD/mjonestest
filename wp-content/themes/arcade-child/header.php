@@ -127,7 +127,7 @@ $space_class = '';
 
             <div class="elephant-navigation <?php if (is_admin_bar_showing()) { echo "admin-bar-margin"; } ?> ">
 
-                <a href="/<?php echo state_geo_url(); ?>"><img alt="elephant-insurance" src="<?php echo get_stylesheet_directory_uri(); ?>/library/images/logo.svg" /></a>
+                <a href="/<?php echo state_geo_url(); ?>"><img alt="elephant insurance" src="<?php echo get_stylesheet_directory_uri(); ?>/library/images/logo.svg" /></a>
 
                 <div class="fx fc-a-center">
                   <div class="floating-quote floating-quote--mobile floating-quote--hidden">
