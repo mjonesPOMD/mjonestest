@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins/
+Disallow: /readme.html
+Disallow: /amp/
+Disallow: /lp/
+Disallow: /hp/
+Sitemap: https://www.elephant.com/sitemap.html
